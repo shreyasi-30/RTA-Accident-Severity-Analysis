@@ -1,0 +1,14 @@
+"Feature","Importance"
+"Number_of_casualties",25.4353174994081
+"Day_of_week",18.139141983314
+"Light_conditions",14.462702138998
+"Types_of_Junction",12.0423364832792
+"Number_of_vehicles_involved",11.4541795986588
+"Age_band_of_driver",7.14254400912832
+"Road_surface_conditions",6.07396944014761
+"Weather_conditions",1.48078981996275
+"Vehicle_movement",1.31769251854952
+"Driving_experience",1.19237957697861
+"Type_of_collision",1.07345181070276
+"Sex_of_driver",0.929058370342985
+"Cause_of_accident",0.233338504517981

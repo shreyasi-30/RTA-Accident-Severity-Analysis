@@ -1,0 +1,10 @@
+"Actual","Predicted","Freq"
+"Fatal injury","Fatal injury",0
+"Serious Injury","Fatal injury",0
+"Slight Injury","Fatal injury",0
+"Fatal injury","Serious Injury",0
+"Serious Injury","Serious Injury",19
+"Slight Injury","Serious Injury",10
+"Fatal injury","Slight Injury",34
+"Serious Injury","Slight Injury",326
+"Slight Injury","Slight Injury",2075
