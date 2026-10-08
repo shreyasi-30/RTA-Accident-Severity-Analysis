@@ -1,0 +1,5 @@
+"Model","Accuracy"
+"Decision Tree",0.8466
+"Random Forest",0.8498
+"Logistic Regression",0.8466
+"Optimized Random Forest",0.850649350649351

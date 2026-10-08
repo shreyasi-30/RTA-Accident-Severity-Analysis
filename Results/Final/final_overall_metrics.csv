@@ -1,0 +1,2 @@
+"Model","Accuracy","Macro_Precision","Macro_Recall","Macro_F1"
+"Optimized Random Forest",0.850649350649351,0.491237728231948,0.356056024745421,0.350979345556257
